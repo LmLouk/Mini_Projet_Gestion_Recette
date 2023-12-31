@@ -1,0 +1,3 @@
+com.opus.recipeapp.springbootrecipeapp.controller.RecipeController#getIngrendientsOrderByName()Ljava/util/List;
+==
+findAllByOrderByName com.opus.recipeapp.springbootrecipeapp.repository.IngredientsRepository#findAllByOrderByName()Ljava/util/List;

@@ -1,0 +1,3 @@
+com.opus.recipeapp.springbootrecipeapp.DatabaseStart#run([Ljava/lang/String;)V
+com.opus.recipeapp.springbootrecipeapp.model.Ingredients#instance-init#
+com.opus.recipeapp.springbootrecipeapp.model.Ingredients#<init>(Ljava/lang/String;)V

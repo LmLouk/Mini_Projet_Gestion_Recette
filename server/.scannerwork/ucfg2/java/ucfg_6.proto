@@ -1,0 +1,27 @@
+
+ncom.opus.recipeapp.springbootrecipeapp.controller.RecipeController#getRecipeByIngredientsId(J)Ljava/util/List;Ž
+ƒ/C:/Users/HP/Desktop/recipe-app-master/server/src/main/java/com/opus/recipeapp/springbootrecipeapp/controller/RecipeController.java= =(."1*À
+1> >(×
+Ô
+> >(H
+%0Bcom.opus.recipeapp.springbootrecipeapp.repository.RecipeRepository"__id*x
+
+__unknown_file (\*ZD
+Bcom.opus.recipeapp.springbootrecipeapp.controller.RecipeController"
+recipeRepository²¯
+> >(0
+%1java.util.List"icom.opus.recipeapp.springbootrecipeapp.repository.RecipeRepository#findByIngredientsId(J)Ljava/util/List;*f
+
+__unknown_file (J
+H
+%0Bcom.opus.recipeapp.springbootrecipeapp.repository.RecipeRepository*"
+
+__unknown_file (
+""2findByIngredientsId(J)""
+> >(1
+
+%1java.util.List: 
+
+__unknown_file (
+""BFD
+Bcom.opus.recipeapp.springbootrecipeapp.controller.RecipeControllerH

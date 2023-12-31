@@ -1,0 +1,7 @@
+organization=mini-projet
+projectKey=mini-projet_gestion-recette
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=mini-projet_gestion-recette
+ceTaskId=AYzA2WlFw9aIP1mwWalP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzA2WlFw9aIP1mwWalP
